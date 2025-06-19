@@ -12,4 +12,7 @@ winget install Microsoft.DevProxy
 
 # Instalar credentials manager
 iex "& { $(irm https://aka.ms/install-artifacts-credprovider.ps1) }"
+
+# Habilitar wsl
+wsl.exe --install
 ```
