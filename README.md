@@ -8,6 +8,7 @@ winget install Microsoft.DotNet.SDK.9
 winget install Microsoft.AzureDataStudio
 winget install Microsoft.VisualStudioCode
 winget install suse.RancherDesktop
+winget install Docker.DockerDesktop
 winget install Microsoft.DevProxy
 
 # Instalar credentials manager
