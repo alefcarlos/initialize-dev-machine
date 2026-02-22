@@ -14,6 +14,10 @@ winget install OpenJS.NodeJS
 winget install Hashicorp.Terraform
 winget install jqlang.jq
 
+# ia
+npm install -g opencode-ai
+npm i -g backlog.md
+
 # Instalar credentials manager
 iex "& { $(irm https://aka.ms/install-artifacts-credprovider.ps1) }"
 
